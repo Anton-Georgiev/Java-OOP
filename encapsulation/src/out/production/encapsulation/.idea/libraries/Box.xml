@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Box">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ClassBox/Box.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
